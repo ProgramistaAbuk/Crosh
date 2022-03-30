@@ -1,5 +1,5 @@
 # Crosh
-#### Wifi Power Save
+### Wifi Power Save
 -----------------------
 ```bash
 wifi_power_save
