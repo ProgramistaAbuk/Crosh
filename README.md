@@ -42,3 +42,17 @@ Description: Chromebook Equivalent to a [Task Manager]
 uname -a
 ```
 Description: Shows all your system information
+
+### Ping
+---------------
+```bash
+ping -c 2 -i 5 -s 2 -W 4 10.101.248.152
+```
+
+Options: ping -c count  -i interval -s Package Size -W Wait Time
+
+Output: 10 bytes from 10.101.248.152: icmp_seq=1 ttl=64 [Your's maye look different]
+
+Description: Pings website or ip address of internet
+
+
