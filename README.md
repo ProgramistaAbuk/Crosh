@@ -34,7 +34,7 @@ wifi_power_save disable
 ```bash
 top
 ```
-Description: [Chromebook Equivalent to a Task Manager]
+Description: Chromebook Equivalent to a [Task Manager]
 
 ### Uname
 ---------------
