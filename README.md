@@ -29,3 +29,9 @@ wifi_power_save disable
  
  Description: Turns off wifi power save [bigger power usage but better/faster wifi]
 
+###Top
+---------------
+```bash
+top
+```
+Description: Chromebook Equivalent to a Task Manager
