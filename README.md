@@ -75,7 +75,7 @@ Output: (Too long to write but mainly the log of the test)
 
 Description: Gves option to test 8 different components on chromebook
 
-###Rollback
+### Rollback
 ---------------
 ```bash
 rollback
