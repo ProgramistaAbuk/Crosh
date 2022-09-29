@@ -55,3 +55,23 @@ Output: 10 bytes from 10.101.248.152: icmp_seq=1 ttl=64 [Your's maye look differ
 
 Description: Pings website or ip address of internet
 
+### Evtest
+---------------
+```bash
+evtest
+```
+
+Options: 
+/dev/input/event0:      Lid Switch
+/dev/input/event1:      Power Button
+/dev/input/event2:      Video Bus
+/dev/input/event3:      AT Translated Set 2 keyboard
+/dev/input/event4:      Elan Touchpad
+/dev/input/event5:      acpd7219m98357 Headset Jack
+/dev/input/event6:      HDA ATI HDMI HDMI/DP,pcm=3
+/dev/input/event7:      HDA ATI HDMI HDMI/DP,pcm=7
+
+Output: (Too long to write but mainly the log of the test)
+
+Description: Gves option to test 8 different components on chromebook
+
